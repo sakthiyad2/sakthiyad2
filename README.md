@@ -197,6 +197,8 @@ A personal portfolio website showcasing my projects, technical skills, and devel
 
 ---
 
+---
+
 ## Connect With Me
 
 <div align="center">
@@ -215,11 +217,11 @@ A personal portfolio website showcasing my projects, technical skills, and devel
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:dsakthiya2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dsakthiya2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-dsakthiya2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<br/>
+<br>
 
 ### Learning. Building. Improving.
 
