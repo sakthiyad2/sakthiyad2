@@ -1,86 +1,70 @@
-<!-- =============================================== -->
-<!--              SAKTHIYA D - PROFILE              -->
-<!-- =============================================== -->
-
 <div align="center">
 
-# SAKTHIYA D
+# Hi, I'm Sakthiya D!
 
 ### AI & Data Science Student | Web Developer | UI Design Enthusiast
 
 <p>
-  <a href="https://github.com/sakthiyad2">GitHub Profile</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/sakthiya-d/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">Portfolio</a>
+  <a href="https://github.com/sakthiyad2">
+    <img src="https://img.shields.io/badge/GitHub-sakthiyad2-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakthiya-d/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Frontend+Development;Java+%26+Python+Programming;Turning+Ideas+Into+Projects" alt="Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Frontend+Development;Java+%26+Python+Programming;Building+Projects+That+Solve+Problems" alt="Typing SVG"/>
 
-<br>
-
-![](https://img.shields.io/badge/Focus-Web%20Development-123B6D?style=flat-square)
-![](https://img.shields.io/badge/Interest-Artificial%20Intelligence-123B6D?style=flat-square)
-![](https://img.shields.io/badge/Learning-Data%20Science-123B6D?style=flat-square)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sakthiyad2&label=Profile%20Views&color=123B6D&style=flat-square" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-## 01 / About Me
+## About Me
 
-Hello! I'm **Sakthiya**, an undergraduate student pursuing B.Tech in Artificial Intelligence and Data Science.
+I'm a B.Tech Artificial Intelligence and Data Science student passionate about programming, web development, data science, and user interface design.
 
-I'm interested in building practical applications, exploring new technologies, and designing clean, user-friendly digital experiences.
-
-- 🎓 **Education:** B.Tech Artificial Intelligence and Data Science
-- 💻 **Development:** React.js, JavaScript, HTML, and CSS
-- ☕ **Programming:** Java and Python
-- 📊 **Data Science:** NumPy, Pandas, and data visualization
-- 🎨 **Creative Interest:** UI design and frontend development
-- 🚀 **Current Goal:** Strengthen my technical skills through projects and consistent practice
-
-I believe in learning by building, experimenting, and improving with every project.
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
+- 💻 Building web applications using React.js and JavaScript.
+- ☕ Practicing Java and Data Structures and Algorithms.
+- 📊 Exploring Python, data analysis, and visualization.
+- 🎨 Interested in UI design and creating user-friendly interfaces.
+- 🚀 Improving my technical skills through hands-on projects.
 
 ---
 
-## 02 / Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-123B6D?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML and CSS"/>
 </p>
 
 ### Frameworks and Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" alt="React, Vite, Node.js and Express"/>
 </p>
 
-### Database and Tools
+### Databases and Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub and VS Code"/>
 </p>
 
 ### Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
 
 **Areas of Interest**
@@ -88,12 +72,12 @@ I believe in learning by building, experimenting, and improving with every proje
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis
 - Data Visualization
-- Responsive Web Design
-- User Interface Design
+- Responsive Web Development
+- UI Design
 
 ---
 
-## 03 / Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -105,7 +89,7 @@ An online verification system for weighing and measuring instruments, designed t
 
 **Technologies:** React.js, Vite
 
-**Project Type:** Smart India Hackathon Project
+**Category:** Smart India Hackathon Project
 
 [View Project →](https://github.com/sakthiyad2/SIH26036)
 
@@ -118,7 +102,7 @@ A concert booking website featuring artist listings, seat selection, wishlists, 
 
 **Technologies:** React.js, JavaScript, React Router, LocalStorage
 
-**Project Type:** Web Application
+**Category:** Web Application
 
 [View Project →](https://github.com/sakthiyad2/Concert-Ticket-Booking-Website)
 
@@ -130,11 +114,11 @@ A concert booking website featuring artist listings, seat selection, wishlists, 
 
 ### To-Do Application
 
-A task management application for organizing daily and weekly tasks, important days, and calendar-based activities.
+A task management application for organizing daily tasks, weekly tasks, important days, and calendar-based activities.
 
 **Technologies:** React.js, JavaScript, React Router, LocalStorage
 
-**Project Type:** Productivity Application
+**Category:** Productivity Application
 
 [View Project →](https://github.com/sakthiyad2/to-do-application)
 
@@ -143,11 +127,11 @@ A task management application for organizing daily and weekly tasks, important d
 
 ### Personal Portfolio
 
-A personal portfolio website showcasing my technical skills, projects, and development journey.
+A personal portfolio website showcasing my projects, technical skills, and development journey.
 
 **Technologies:** HTML, CSS, JavaScript
 
-**Project Type:** Portfolio Website
+**Category:** Portfolio Website
 
 [View Portfolio →](https://sakthiyad2.github.io/sakthiya-portfolio/)
 
@@ -157,7 +141,7 @@ A personal portfolio website showcasing my technical skills, projects, and devel
 
 ---
 
-## 04 / GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
@@ -169,7 +153,7 @@ A personal portfolio website showcasing my technical skills, projects, and devel
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthiyad2&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=123B6D&text_color=333333" alt="Most Used Languages"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/sakthiyad2">
   <img src="https://streak-stats.demolab.com?user=sakthiyad2&hide_border=true&background=FFFFFF&ring=123B6D&fire=2563EB&currStreakLabel=123B6D&sideLabels=333333&currStreakNum=123B6D&sideNums=123B6D&dates=666666" alt="GitHub Contribution Streak"/>
@@ -179,28 +163,28 @@ A personal portfolio website showcasing my technical skills, projects, and devel
 
 ---
 
-## 05 / What I'm Working Towards
+## What I'm Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Technical Growth
+### Programming
 
-- Strengthening Java programming
-- Practicing Data Structures and Algorithms
-- Building React applications
-- Improving database management skills
+- Java and Data Structures
+- Problem-solving techniques
+- Database Management Systems
+- JavaScript and React.js
 
 </td>
 <td width="50%" valign="top">
 
-### Future Learning
+### Development
 
-- Exploring Artificial Intelligence
-- Developing Data Science projects
-- Improving UI/UX design skills
-- Learning modern development tools
+- Building responsive websites
+- Improving UI design
+- Exploring data science
+- Developing practical applications
 
 </td>
 </tr>
@@ -208,30 +192,28 @@ A personal portfolio website showcasing my technical skills, projects, and devel
 
 ---
 
-## 06 / Let's Connect
-
-I'm always interested in learning, sharing ideas, and connecting with people who enjoy technology and development.
+## Connect With Me
 
 <div align="center">
 
-**GitHub**
+<a href="https://github.com/sakthiyad2">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sakthiya-d/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
-[Explore My Repositories →](https://github.com/sakthiyad2)
-
-**LinkedIn**
-
-[Connect With Me →](https://www.linkedin.com/in/sakthiya-d/)
-
-**Portfolio**
-
-[Explore My Portfolio →](https://sakthiyad2.github.io/sakthiya-portfolio/)
-
-<br>
-
----
+<br/><br/>
 
 ### Learning. Building. Improving.
 
 *Every project is another opportunity to learn something new.*
+
+Thank you for visiting my profile!
 
 </div>
