@@ -13,9 +13,7 @@
   </a>
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=123B6D&center=true&vCenter=true&width=600&lines=Building+Projects+That+Solve+Problems;Exploring+AI+%26+Data+Science;Creating+Clean+User+Interfaces;Learning+Something+New+Every+Day" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Projects+That+Solve+Problems;Exploring+AI+%26+Data+Science;Creating+User-Friendly+Websites;Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
 </div>
 
@@ -23,14 +21,14 @@
 
 ## About Me
 
-I'm a B.Tech Artificial Intelligence and Data Science student passionate about technology, web development, and UI design.
+I'm a B.Tech Artificial Intelligence and Data Science student interested in web development, data science, and user interface design.
 
-* 🎓 Studying Artificial Intelligence and Data Science
-* 💻 Developing projects with React.js, Java, and Python
-* 🎨 Interested in UI design and user-friendly web experiences
-* 📊 Exploring data analysis and visualization
-* 🌱 Continuously learning and improving my technical skills
-* 🚀 Turning ideas into practical projects
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science
+- 💻 Building web applications using React.js and JavaScript
+- ☕ Practicing Java and Data Structures
+- 📊 Exploring Python, data analysis, and visualization
+- 🎨 Interested in UI design and clean, user-friendly interfaces
+- 🚀 Learning through hands-on projects and continuous practice
 
 ---
 
@@ -55,7 +53,7 @@ I'm a B.Tech Artificial Intelligence and Data Science student passionate about t
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### Database and Tools
+### Databases and Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -70,8 +68,11 @@ I'm a B.Tech Artificial Intelligence and Data Science student passionate about t
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/EDA-123B6D?style=flat-square" alt="Exploratory Data Analysis"/>
 </p>
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
 
 ---
 
@@ -81,57 +82,64 @@ I'm a B.Tech Artificial Intelligence and Data Science student passionate about t
 <tr>
 <td width="50%" valign="top">
 
-### e-Maap
+<h3>e-Maap</h3>
 
-Online verification system for weighing and measuring instruments.
+<p>
+An online verification system for weighing and measuring instruments, designed to support digital verification and certificate management.
+</p>
 
-**Focus:** Digital verification and certificate management.
-
-**Technologies:** React, Vite
+<p><strong>Technologies:</strong> React.js, Vite</p>
 
 <a href="https://github.com/sakthiyad2/SIH26036">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="View e-Maap"/>
+  <img src="https://img.shields.io/badge/View_Project-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="View e-Maap Project"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### Concert Ticket Booking
+<h3>Concert Ticket Booking</h3>
 
-A concert booking website with artist listings, seat selection, wishlists, and booking management.
+<p>
+A concert booking website featuring artist listings, seat selection, wishlists, and booking management.
+</p>
 
-**Technologies:** React, JavaScript, React Router
+<p><strong>Technologies:</strong> React.js, JavaScript, React Router</p>
 
 <a href="https://github.com/sakthiyad2/Concert-Ticket-Booking-Website">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="View Concert Booking"/>
+  <img src="https://img.shields.io/badge/View_Project-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="View Concert Booking Project"/>
 </a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### To-Do Application
+<h3>To-Do Application</h3>
 
-A task management application for organizing daily and weekly tasks.
+<p>
+A task management application for organizing daily tasks, weekly tasks, important days, and calendar-based activities.
+</p>
 
-**Technologies:** React, JavaScript, LocalStorage
+<p><strong>Technologies:</strong> React.js, JavaScript, LocalStorage</p>
 
 <a href="https://github.com/sakthiyad2/to-do-application">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="View To-Do Application"/>
+  <img src="https://img.shields.io/badge/View_Project-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="View To-Do Project"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### Personal Portfolio
+<h3>Personal Portfolio</h3>
 
-A personal website showcasing my projects, skills, and development journey.
+<p>
+My personal portfolio website showcasing my projects, technical skills, and development journey.
+</p>
 
-**Focus:** Web development and UI design.
+<p><strong>Focus:</strong> Web Development and UI Design</p>
 
 <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"/>
+  <img src="https://img.shields.io/badge/View_Portfolio-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio"/>
 </a>
 
 </td>
@@ -144,34 +152,40 @@ A personal website showcasing my projects, skills, and development journey.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakthiyad2&show_icons=true&hide_border=true&title_color=123B6D&icon_color=123B6D&text_color=333333&bg_color=FFFFFF" alt="GitHub Statistics"/>
+<a href="https://github.com/sakthiyad2">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sakthiyad2&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=123B6D&icon_color=123B6D&text_color=333333" alt="GitHub Statistics"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthiyad2&layout=compact&hide_border=true&title_color=123B6D&text_color=333333&bg_color=FFFFFF" alt="Most Used Languages"/>
+<a href="https://github.com/sakthiyad2">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthiyad2&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=123B6D&text_color=333333" alt="Most Used Languages"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sakthiyad2&hide_border=true&ring=123B6D&fire=123B6D&currStreakLabel=123B6D" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/sakthiyad2">
+  <img src="https://streak-stats.demolab.com?user=sakthiyad2&hide_border=true&background=FFFFFF&ring=123B6D&fire=2563EB&currStreakLabel=123B6D&sideLabels=333333&currStreakNum=123B6D&sideNums=123B6D&dates=666666" alt="GitHub Contribution Streak"/>
+</a>
 
 </div>
 
 ---
 
-## Let's Connect
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/sakthiyad2">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sakthiya-d/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-**Learning. Building. Improving.**
+<h3>Learning. Building. Improving.</h3>
 
-<sub>Thank you for visiting my profile!</sub>
+<p>Thank you for visiting my profile!</p>
 
 </div>
