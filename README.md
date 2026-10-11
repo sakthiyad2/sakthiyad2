@@ -19,11 +19,13 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Frontend+Development;Java+%26+Python+Programming;Building+Projects+That+Solve+Problems" alt="Animated Introduction"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science;Frontend+Development;Java+%26+Python+Programming;Building+Projects+That+Solve+Problems" alt="Animated Introduction"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sakthiyad2&label=Profile%20Views&color=123B6D&style=flat-square" alt="Profile Views"/>
-</p>
+<br/>
+
+<a href="https://github.com/sakthiyad2">
+  <img src="https://komarev.com/ghpvc/?username=sakthiyad2&label=PROFILE+VIEWS&color=123B6D&style=flat" alt="Profile Views"/>
+</a>
 
 </div>
 
@@ -197,8 +199,6 @@ A personal portfolio website showcasing my projects, technical skills, and devel
 
 ---
 
----
-
 ## Connect With Me
 
 <div align="center">
@@ -216,10 +216,10 @@ A personal portfolio website showcasing my projects, technical skills, and devel
   <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
- 
+  
 </p>
 
-<br>
+<br/>
 
 ### Learning. Building. Improving.
 
