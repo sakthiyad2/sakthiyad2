@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://github.com/sakthiyad2">
-    <img src="https://img.shields.io/badge/GitHub-sakthiyad2-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-sakthiyad2-123B6D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/sakthiya-d/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -19,13 +19,11 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science;Frontend+Development;Java+%26+Python+Programming;Building+Projects+That+Solve+Problems" alt="Animated Introduction"/>
-
-<br/>
-
-<a href="https://github.com/sakthiyad2">
-  <img src="https://komarev.com/ghpvc/?username=sakthiyad2&label=PROFILE+VIEWS&color=123B6D&style=flat" alt="Profile Views"/>
-</a>
+<p>
+  <strong>Artificial Intelligence</strong> ·
+  <strong>Frontend Development</strong> ·
+  <strong>Java & Python</strong>
+</p>
 
 </div>
 
@@ -35,13 +33,13 @@
 
 I'm a B.Tech Artificial Intelligence and Data Science student passionate about programming, web development, data science, and user interface design.
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
-- 💻 Building web applications using React.js and JavaScript.
-- ☕ Practicing Java and Data Structures and Algorithms.
-- 📊 Exploring Python, data analysis, and visualization.
-- 🎨 Interested in UI design and creating user-friendly interfaces.
-- 🚀 Improving my technical skills through hands-on projects.
-- 🤝 Interested in learning new technologies and collaborating on projects.
+- Pursuing B.Tech in Artificial Intelligence and Data Science.
+- Building web applications using React.js and JavaScript.
+- Practicing Java and Data Structures and Algorithms.
+- Exploring Python, data analysis, and visualization.
+- Interested in UI design and creating user-friendly interfaces.
+- Improving my technical skills through hands-on projects.
+- Interested in learning new technologies and collaborating on projects.
 
 ---
 
@@ -73,7 +71,7 @@ I'm a B.Tech Artificial Intelligence and Data Science student passionate about p
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
 
-**Areas of Interest**
+### Areas of Interest
 
 - Data Structures and Algorithms
 - Data Cleaning and Preprocessing
@@ -98,7 +96,9 @@ An online verification system for weighing and measuring instruments, designed t
 
 **Category:** Smart India Hackathon Project
 
-[View Project →](https://github.com/sakthiyad2/SIH26036)
+[View Repository →](https://github.com/sakthiyad2/SIH26036)
+
+[View Live Demo →](https://sakthiyad2.github.io/SIH26036/)
 
 </td>
 <td width="50%" valign="top">
@@ -111,7 +111,9 @@ A concert booking website featuring artist listings, seat selection, wishlists, 
 
 **Category:** Web Application
 
-[View Project →](https://github.com/sakthiyad2/Concert-Ticket-Booking-Website)
+[View Repository →](https://github.com/sakthiyad2/Concert-Ticket-Booking-Website)
+
+[View Live Demo →](https://sakthiyad2.github.io/Concert-Ticket-Booking-Website/)
 
 </td>
 </tr>
@@ -127,14 +129,14 @@ A task management application for organizing daily tasks, weekly tasks, importan
 
 **Category:** Productivity Application
 
-[View Project →](https://github.com/sakthiyad2/to-do-application)
+[View Repository →](https://github.com/sakthiyad2/to-do-application)
 
 </td>
 <td width="50%" valign="top">
 
 ### Personal Portfolio
 
-A personal portfolio website showcasing my projects, technical skills, and development journey.
+A personal website showcasing my projects, technical skills, and development journey.
 
 **Technologies:** HTML, CSS, JavaScript
 
@@ -153,17 +155,17 @@ A personal portfolio website showcasing my projects, technical skills, and devel
 <div align="center">
 
 <a href="https://github.com/sakthiyad2">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sakthiyad2&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=123B6D&icon_color=2563EB&text_color=333333&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sakthiyad2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/sakthiyad2">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthiyad2&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=123B6D&text_color=333333" alt="Most Used Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthiyad2&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Most Used Languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/sakthiyad2">
-  <img src="https://streak-stats.demolab.com?user=sakthiyad2&hide_border=true&background=FFFFFF&ring=123B6D&fire=2563EB&currStreakLabel=123B6D&sideLabels=333333&currStreakNum=123B6D&sideNums=123B6D&dates=666666" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sakthiyad2&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Contribution Streak"/>
 </a>
 
 </div>
@@ -216,7 +218,7 @@ A personal portfolio website showcasing my projects, technical skills, and devel
   <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  
+
 </p>
 
 <br/>
