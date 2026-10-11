@@ -14,9 +14,12 @@
   <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="mailto:dsakthiya2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Frontend+Development;Java+%26+Python+Programming;Building+Projects+That+Solve+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Frontend+Development;Java+%26+Python+Programming;Building+Projects+That+Solve+Problems" alt="Animated Introduction"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=sakthiyad2&label=Profile%20Views&color=123B6D&style=flat-square" alt="Profile Views"/>
@@ -36,6 +39,7 @@ I'm a B.Tech Artificial Intelligence and Data Science student passionate about p
 - 📊 Exploring Python, data analysis, and visualization.
 - 🎨 Interested in UI design and creating user-friendly interfaces.
 - 🚀 Improving my technical skills through hands-on projects.
+- 🤝 Interested in learning new technologies and collaborating on projects.
 
 ---
 
@@ -68,12 +72,13 @@ I'm a B.Tech Artificial Intelligence and Data Science student passionate about p
 </p>
 
 **Areas of Interest**
+
 - Data Structures and Algorithms
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis
 - Data Visualization
 - Responsive Web Development
-- UI Design
+- User Interface Design
 
 ---
 
@@ -163,7 +168,7 @@ A personal portfolio website showcasing my projects, technical skills, and devel
 
 ---
 
-## What I'm Learning
+## Currently Learning
 
 <table>
 <tr>
@@ -181,10 +186,10 @@ A personal portfolio website showcasing my projects, technical skills, and devel
 
 ### Development
 
-- Building responsive websites
-- Improving UI design
-- Exploring data science
-- Developing practical applications
+- Responsive web development
+- UI design improvements
+- Data science fundamentals
+- Practical application development
 
 </td>
 </tr>
@@ -196,19 +201,25 @@ A personal portfolio website showcasing my projects, technical skills, and devel
 
 <div align="center">
 
-<a href="https://github.com/sakthiyad2">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sakthiya-d/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<p>
+  <a href="https://github.com/sakthiyad2">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakthiya-d/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<br/><br/>
+<p>
+  <a href="https://sakthiyad2.github.io/sakthiya-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-123B6D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:dsakthiya2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dsakthiya2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br/>
 
 ### Learning. Building. Improving.
 
